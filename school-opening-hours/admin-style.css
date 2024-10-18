@@ -1,0 +1,31 @@
+/* admin-style.css */
+.wrap h1 {
+    font-size: 24px;
+    color: #0073aa;
+}
+
+.wrap h2 {
+    font-size: 20px;
+    color: #23282d;
+}
+
+.table-custom th {
+    font-size: 16px;
+    color: #0073aa;
+}
+
+.table-custom td {
+    font-size: 14px;
+    color: #555d66;
+}
+
+.button-primary {
+    background-color: #0073aa;
+    border-color: #006799;
+    color: #fff;
+}
+
+.button-primary:hover {
+    background-color: #005b8c;
+    border-color: #005b8c;
+}

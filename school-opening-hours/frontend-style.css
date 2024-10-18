@@ -1,0 +1,22 @@
+/* frontend-style.css */
+.school-event-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.school-event-table th, .school-event-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+.school-event-table th {
+    background-color: #f2f2f2;
+    color: #0073aa;
+    font-size: 16px;
+}
+
+.school-event-table td {
+    font-size: 14px;
+    color: #555d66;
+}
