@@ -1,38 +1,47 @@
-=== Classic Widgets ===
-Contributors: wordpressdotorg, hellofromtonya, azaozz
-Tags: gutenberg, disable, disable gutenberg, editor, classic widgets
-Requires at least: 4.9
-Tested up to: 5.9
-Stable tag: 0.3
-Requires PHP: 5.6 or later
+=== School Opening Hours ===
+Contributors: alamindit
+Donate link: https://github.com/allamindit/
+Tags: school, hours, opening, events
+Requires at least: 5.0
+Tested up to: 6.6
+Requires PHP: 7.2
+Stable tag: 3.0
 License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-Enables the previous "classic" widgets settings screens in Appearance - Widgets and the Customizer. Disables the block editor from managing widgets.
+A simple plugin to manage and display school opening hours and special event days.
 
 == Description ==
+Simple plugin for showing work schedule and a message whether the school or office is open today or not and any event day setup.
 
-Classic Widgets is an official plugin maintained by the WordPress team that restores the previous ("classic") WordPress widgets settings screens. It will be supported and maintained until at least 2022, or as long as is necessary.
 
-Once activated and when using a classic (non-block) theme, this plugin restores the previous widgets settings screens and disables the block editor from managing widgets. There is no other configuration, the classic widgets settings screens are enabled or disabled by either enabling or disabling this plugin.
 
-== Changelog ==
-
-= 0.3 =
-Update for 5.9.
-
-= 0.2 =
-Update filter name.
-
-= 0.1 =
-Initial release.
+== Installation ==
+1. Upload the entire `school-opening-hours` folder to the `/wp-content/plugins/` directory.
+2. Activate the plugin through the 'Plugins' menu in WordPress.
 
 == Frequently Asked Questions ==
 
-= Are there any settings? =
+= Can I email you with support questions? =
 
-No, there are no settings. Once activated, this plugin restores the previous ("classic") WordPress widgets screen and disables the block editor from managing widgets.
+Yes. Please use the integrated knock at github page.
 
-= Does this work with full site editing and block themes? =
+= Do you provide extra "premium" customization? =
 
-No, as a block themes relies on blocks. [See Block themes article](https://wordpress.org/support/article/block-themes/) for more information.
+Yes. You can email me for that or knock at github page.
+
+== Screenshots ==
+
+1. School Opening Hours
+2. School Event Days
+
+== Changelog ==
+
+= 3.0 =
+* Initial release.
+
+== License ==
+This plugin is licensed under the GPLv2 or later.
+
+== License URI ==
+https://www.gnu.org/licenses/gpl-2.0.html
